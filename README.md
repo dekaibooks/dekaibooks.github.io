@@ -97,17 +97,18 @@ Urutan section, mengikuti alur profil resmi Dekai Books:
 
 1. **Hero** — nama, tagline, dan kutipan visi, gaya sampul jurnal (latar hitam, dengan vinyet, tekstur grain halus, dan garis animasi tipis)
 2. **Tentang Dekai Books** — sejarah singkat berdirinya gerakan
-3. **Keresahan** — kutipan editorial tentang keterbatasan akses buku di Yahukimo
-4. **Visi** — "Belajar, Bertumbuh, Membumi" (latar hitam, tipografi besar)
-5. **Misi** — enam poin misi dalam bentuk daftar bernomor
-6. **Gerakan yang Berjalan** — Lapak Baca, Pemutaran Film, Riset Kolaborasi
-7. **Lapak Baca** — jadwal (Rabu & Sabtu) dan detail kegiatan
-8. **Galeri** — mosaik foto dokumentasi (kotak 1:1), setiap foto bisa diklik untuk dibuka dalam lightbox
-9. **Donasi & Relawan** — ajakan dukungan buku/dana dan keterlibatan relawan, mengarah ke WhatsApp
-10. **Pengurus** — susunan pengurus dan bidang
-11. **Lokasi** — alamat lengkap
-12. **Kontak (Mari Terhubung)** — Instagram, Facebook, WhatsApp
-13. **Footer** — identitas singkat, lokasi, tautan sosial, kredit pembuat
+3. **Donasi & Dukung Kami** — penjualan T-Shirt Dekai Books (foto `assets/img/donasi/donasi-1.webp`, harga, ukuran, kontak, tombol pesan via WhatsApp)
+4. **Keresahan** — kutipan editorial tentang keterbatasan akses buku di Yahukimo
+5. **Visi** — "Belajar, Bertumbuh, Membumi" (latar hitam, tipografi besar)
+6. **Misi** — enam poin misi dalam bentuk daftar bernomor
+7. **Gerakan yang Berjalan** — Lapak Baca, Pemutaran Film, Riset Kolaborasi
+8. **Lapak Baca** — jadwal (Rabu & Sabtu) dan detail kegiatan
+9. **Galeri** — mosaik foto dokumentasi (kotak 1:1), setiap foto bisa diklik untuk dibuka dalam lightbox
+10. **Donasi & Relawan** — ajakan dukungan buku/dana dan keterlibatan relawan, mengarah ke WhatsApp
+11. **Pengurus** — susunan pengurus dan bidang
+12. **Lokasi** — alamat lengkap
+13. **Kontak (Mari Terhubung)** — Instagram, Facebook, WhatsApp
+14. **Footer** — identitas singkat, lokasi, tautan sosial, kredit pembuat
 
 Navigasi header bersifat sticky dan selalu berlatar hitam. Ada tombol sosial mengambang (WhatsApp, Instagram, Facebook) di kanan bawah yang otomatis tersembunyi saat mendekati footer agar tidak menumpuk dengan tautan sosial di sana.
 
